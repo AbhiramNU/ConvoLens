@@ -384,7 +384,7 @@ const Index = () => {
             </span>
           </div>
           <p className="text-[10px] font-mono tracking-[0.25em] uppercase text-low">
-            your chat is never stored · processed in memory
+            v1.0.0 · private · ephemeral · secure
           </p>
         </div>
       </footer>
